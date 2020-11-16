@@ -18,7 +18,7 @@ In this folder, you can find assignments with NLP and exploring Gradient Descent
 - Batch Gradient Descent with Learning Rate Decay
 - Stochastic Minibatch Gradient Descent
 - Principle Component Analysis
-- NLP: Bag of Words, Word2Vec, TDF, ITDF, representation of words
+- NLP: Bag of Words, Word2Vec, TF, IDF, representation of words
 - Logistic Regression
 
 week4 -
